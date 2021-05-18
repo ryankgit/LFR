@@ -1,0 +1,27 @@
+#CRC Codes for initially generated config files -- do not modify!
+#Tue May 04 17:40:30 CDT 2021
+sl_emlib_gpio_init_left_motor_fw_bw_config.h=-1809778180
+sl_device_init_lfxo_config.h=-1131755087
+sl_emlib_gpio_init_pin_b_1_config.h=1708384437
+sl_emlib_gpio_init_left_sensor_input_config.h=-131866088
+sl_sleeptimer_config.h=-1879962229
+sl_device_init_hfxo_config.h=1133380573
+sl_emlib_gpio_init_motor_driver_enable_config.h=-1791078941
+sl_iostream_usart_vcom_config.h=316435061
+sl_emlib_gpio_init_right_motor_fw_config.h=2053218081
+SEGGER_RTT_Conf.h=-2139387046
+sl_emlib_gpio_init_left_led_control_config.h=-1794232663
+sl_emlib_gpio_init_LED_config.h=93034072
+sl_emlib_gpio_init_pin_enable_output_config.h=-596579434
+sl_emlib_gpio_init_pin_a_1_config.h=478650770
+sl_device_init_dcdc_config.h=-870566101
+sl_device_init_emu_config.h=622680131
+sl_emlib_gpio_init_pin_b_2_config.h=602276437
+sl_emlib_gpio_init_BTN_config.h=-278561149
+sl_emlib_gpio_init_pin_a_2_config.h=1521632114
+sl_emlib_gpio_init_right_led_control_config.h=-38557287
+sl_emlib_gpio_init_right_motor_fw_bw_config.h=-230309637
+sl_emlib_gpio_init_left_motor_fw_config.h=-1919896560
+sl_emlib_gpio_init_right_sensor_input_config.h=-1469186122
+sl_board_control_config.h=-11277283
+sl_memory_config.h=687128566

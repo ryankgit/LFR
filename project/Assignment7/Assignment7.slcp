@@ -1,0 +1,33 @@
+# Silicon Labs Project Configuration Tools: slcp, v0, Component selection file.
+include:
+- path: ''
+  file_list:
+  - {path: app.h}
+component:
+- {id: BGM220PC22HNA}
+- instance: [BTN, LED, left_led_control, left_motor_fw, left_motor_fw_bw, left_sensor_input,
+    motor_driver_enable, right_led_control, right_motor_fw, right_motor_fw_bw, right_sensor_input]
+  id: emlib_gpio_simple_init
+- {id: sl_system}
+- {id: iostream_retarget_stdio}
+- {id: device_init}
+- {id: gpiointerrupt}
+- instance: [vcom]
+  id: iostream_usart
+- {id: sleeptimer}
+- {id: brd4314a}
+package: platform
+define:
+- {name: DEBUG_EFM}
+description: |
+  This example project shows an empty configuration that can be used as a starting point to add components and functionality.
+label: Assignment7
+source:
+- {path: app.c}
+- {path: main.c}
+project_name: Assignment7
+category: Example|Platform
+toolchain_settings: []
+ui_hints: {}
+quality: production
+

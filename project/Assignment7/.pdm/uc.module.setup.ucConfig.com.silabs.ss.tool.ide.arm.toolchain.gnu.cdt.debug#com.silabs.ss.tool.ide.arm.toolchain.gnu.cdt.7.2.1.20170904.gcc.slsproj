@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="uc.module.setup.ucConfig.com.silabs.ss.tool.ide.arm.toolchain.gnu.cdt.debug#com.silabs.ss.tool.ide.arm.toolchain.gnu.cdt:7.2.1.20170904.gcc" propertyScope="project">
+  <folder name="config">
+    <file name="sl_memory_config.h" uri="studio:/project/config/sl_memory_config.h"/>
+    <file name="sl_board_control_config.h" uri="studio:/project/config/sl_board_control_config.h"/>
+    <file name="sl_emlib_gpio_init_BTN_config.h" uri="studio:/project/config/sl_emlib_gpio_init_BTN_config.h"/>
+    <file name="sl_emlib_gpio_init_LED_config.h" uri="studio:/project/config/sl_emlib_gpio_init_LED_config.h"/>
+    <file name="sl_emlib_gpio_init_left_led_control_config.h" uri="studio:/project/config/sl_emlib_gpio_init_left_led_control_config.h"/>
+    <file name="sl_emlib_gpio_init_left_motor_fw_config.h" uri="studio:/project/config/sl_emlib_gpio_init_left_motor_fw_config.h"/>
+    <file name="sl_emlib_gpio_init_left_motor_fw_bw_config.h" uri="studio:/project/config/sl_emlib_gpio_init_left_motor_fw_bw_config.h"/>
+    <file name="sl_emlib_gpio_init_left_sensor_input_config.h" uri="studio:/project/config/sl_emlib_gpio_init_left_sensor_input_config.h"/>
+    <file name="sl_emlib_gpio_init_motor_driver_enable_config.h" uri="studio:/project/config/sl_emlib_gpio_init_motor_driver_enable_config.h"/>
+    <file name="sl_emlib_gpio_init_right_led_control_config.h" uri="studio:/project/config/sl_emlib_gpio_init_right_led_control_config.h"/>
+    <file name="sl_emlib_gpio_init_right_motor_fw_config.h" uri="studio:/project/config/sl_emlib_gpio_init_right_motor_fw_config.h"/>
+    <file name="sl_emlib_gpio_init_right_motor_fw_bw_config.h" uri="studio:/project/config/sl_emlib_gpio_init_right_motor_fw_bw_config.h"/>
+    <file name="sl_emlib_gpio_init_right_sensor_input_config.h" uri="studio:/project/config/sl_emlib_gpio_init_right_sensor_input_config.h"/>
+    <file name="sl_iostream_usart_vcom_config.h" uri="studio:/project/config/sl_iostream_usart_vcom_config.h"/>
+    <file name="sl_device_init_dcdc_config.h" uri="studio:/project/config/sl_device_init_dcdc_config.h"/>
+    <file name="sl_device_init_emu_config.h" uri="studio:/project/config/sl_device_init_emu_config.h"/>
+    <file name="sl_device_init_lfxo_config.h" uri="studio:/project/config/sl_device_init_lfxo_config.h"/>
+    <file name="sl_device_init_hfxo_config.h" uri="studio:/project/config/sl_device_init_hfxo_config.h"/>
+    <file name="sl_sleeptimer_config.h" uri="studio:/project/config/sl_sleeptimer_config.h"/>
+  </folder>
+  <includePath uri="studio:/project/config/"/>
+</project>
