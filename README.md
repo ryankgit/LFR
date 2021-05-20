@@ -2,8 +2,6 @@
 
 ![robot side view](robot/images/angle-view.jpg)
 
-![robot video](robot/videos/technical-section.mp4)
-
 # External Hardware
 
 -	**1x Silicon Labs BGM220 Explorer Kit board** - This board from Silicon Labs is designed for rapid prototyping and concept creation of IoT applications. The features I utilized from this board were the USB interface, user-LED and button, and mikroBUS socket.
